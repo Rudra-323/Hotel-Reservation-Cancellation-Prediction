@@ -86,8 +86,8 @@ The app lets a user enter booking details in the sidebar and then shows:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Rudra-323/Hotel-Reservation-Cancellation-Prediction.git
+cd Hotel-Reservation-Cancellation-Prediction
 
 # 2. (Optional) Create a virtual environment
 python -m venv venv
@@ -138,7 +138,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · TensorFlow
 
 ## 👤 Author
 
-**Your Name**
+**Rudrakanta Mandala**
 [LinkedIn](https://www.linkedin.com/in/rudrakanta)) · [GitHub](https://github.com/Rudra-323)
 
 Built as part of the ANN Capstone Project at Innomatics Research Labs.
